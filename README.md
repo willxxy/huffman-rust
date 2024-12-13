@@ -1,7 +1,7 @@
 # Huffman Coding in Rust with Python Bindings
 
 Just wanted to learn some different compression techniques and practice Rust.
-I referenced [this repository](https://github.com/nayuki/Reference-Huffman-coding/tree/master) for the Rust version mostly.
+I referenced [this repository](https://github.com/nayuki/Reference-Huffman-coding/tree/master) to translate to the Rust version mostly.
 
 ## Usage
 
